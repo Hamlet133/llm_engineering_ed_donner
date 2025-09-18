@@ -192,3 +192,9 @@ scraper_cache/
 
 # WandB local sync data.
 wandb/
+
+
+cnn_world_news.csv
+
+# Generated Files
+data/
